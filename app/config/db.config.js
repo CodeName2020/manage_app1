@@ -3,8 +3,8 @@ module.exports = {
   // USER: "root",
   // PASSWORD: "",
   // DB: "myapi"
-  HOST: "sql.freedb.tech",
-  USER: "freedb_user_dimsum",
-  PASSWORD: "@&25RgyScttHQYd",
-  DB: "freedb_DimSum",
+  HOST: "bcox7iq8ysidkvxknrhx-mysql.services.clever-cloud.com",
+  USER: "",
+  PASSWORD: "",
+  DB: "bcox7iq8ysidkvxknrhxbcox7iq8ysidkvxknrhx",
 };
